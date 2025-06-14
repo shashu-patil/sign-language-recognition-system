@@ -2,6 +2,8 @@
 # Hand Gesture Recognition with Voice Feedback
 
 This project implements a real-time hand gesture recognition system using a webcam, with the ability to collect gesture image data and test recognition using a pre-trained deep learning model. It also provides audio feedback using text-to-speech.
+![Images](Images/Pic1.png)
+![Images](Images/Pic2.png)
 
 ## Features
 
